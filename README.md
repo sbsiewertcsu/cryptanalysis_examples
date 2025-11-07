@@ -1,4 +1,4 @@
-This is a small collection of simple encryption examples
+This is a small collection of simple encryption examples.
 
 For a much more in depth source of encyrption and decryption tools, see:
 https://www.dcode.fr/en
