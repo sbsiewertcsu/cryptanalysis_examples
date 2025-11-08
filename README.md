@@ -15,6 +15,6 @@ https://www.dcode.fr/tools-list#cryptography
 
 Some general references to start with:
 
-https://en.wikipedia.org/wiki/Caesar_cipher
-https://en.wikipedia.org/wiki/Transposition_cipher
-https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+1) https://en.wikipedia.org/wiki/Caesar_cipher,
+2) https://en.wikipedia.org/wiki/Transposition_cipher,
+3) https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
